@@ -2,6 +2,8 @@
 
 * [Initial page](README.md)
 * [guide template](guide-template/README.md)
+  * [Untitled](guide-template/untitled-4.md)
+  * [Untitled](guide-template/untitled-3.md)
   * [Untitled](guide-template/untitled.md)
   * [Untitled](guide-template/untitled-2.md)
   * [Untitled](guide-template/untitled-1.md)
