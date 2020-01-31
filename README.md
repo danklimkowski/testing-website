@@ -15,7 +15,11 @@ heres where i can enter content
 * 3
 * 4
 
+{% page-ref page="guide-template/" %}
 
+heres some writing
+
+![bongo](.gitbook/assets/amusing-tools-small-twitch-bio-bamboo-copy-3.png)
 
 {% page-ref page="./" %}
 
